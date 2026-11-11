@@ -1,0 +1,115 @@
+.Question{
+    /*width: 1000px;*/
+    background-color: #cedcff;
+    font-size: 50px;
+    color: #555;
+    text-align: center;
+    display: block;
+    border-radius: 15px;
+    margin: 50px 100px 130px 100px;
+}
+
+.Answer{
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    display: block;
+    margin: 0px 0px 160px 0px;
+}
+
+.intro{
+    font-size: 20px;
+    color: #000;
+}
+
+.images{
+    float: left;
+}
+
+
+.content-Left{
+    margin: 20px auto;
+}
+
+.content-Right{
+    margin: 20px auto;
+}
+
+
+
+
+
+.pList{
+    width: 500px;
+    background-color: #AAA;
+    text-align: center;
+}
+
+.pSearch{
+    width: 500px;
+    background-color: #CCC;
+    padding: 30px 0px 30px 0px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.pAppend{
+    width: 500px;
+    background-color: #EEE;
+}
+
+.pLeft{
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+}
+
+.pRight{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    float: left;
+}
+
+.floatclear{
+    clear: both;
+}
+
+.pAtention{
+    width: 500px;
+    padding: 10px 0px 10px 0px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.pBack{
+    width: 80px;
+    margin: 0 auto;
+    padding: 10px 0px 10px 0px;
+}
+
+.pDateBox-List{
+    width: 175px;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+}
+
+.pSettingButton{
+    width: 75px;
+    font-size: 20px;
+    float: left;
+}
+
+.pFloatOnly{
+    float: left;
+}
+
+.pDateBox-Search{
+    width: 225px;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+}
