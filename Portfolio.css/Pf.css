@@ -1,0 +1,39 @@
+body{
+    background-color: #e4f3ff;
+}
+
+.Question{
+    /*width: 1000px;*/
+    background-color: #23268a;
+    font-size: 50px;
+    color: #c8c9f0;
+    text-align: center;
+    display: block;
+    border-radius: 15px;
+    margin: 0px 100px 130px 100px;
+}
+
+.Answer{
+    font-size: 30px;
+    color: #00777b;
+    text-align: center;
+    display: block;
+    margin: 0px 0px 160px 0px;
+}
+
+.infTable{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 20px 20px 160px 20px;
+}
+
+.content{
+    color: #00777b;
+    text-align: center;
+}
+
+
+.floatclear{
+    clear: both;
+}
